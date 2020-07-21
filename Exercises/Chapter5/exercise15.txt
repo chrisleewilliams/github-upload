@@ -1,0 +1,11 @@
+10
+Williams 100
+Fritz 85
+Conley 80
+El-Amin 75
+Henderson 100
+Courtney 70
+Harris 80
+Foster 89
+Allen 95
+Horne 93
